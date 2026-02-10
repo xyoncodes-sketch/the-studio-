@@ -127,6 +127,13 @@ h2 {
     color: #03dac6;
 }
 
+.price {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #bb86fc;
+}
+
 /* Work / Audio Player */
 .track {
     background: #1f1f1f;
